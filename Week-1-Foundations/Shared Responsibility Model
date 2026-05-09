@@ -14,4 +14,4 @@ Why are Security Groups important?
 Security Groups controls the traffic that comes or goes, this is important because it protects the cloud from malicious data coming in.
 
 Why is MFA important?
-Without Multiple Factor Authentication
+Additional layer of security and ensures attacks can't get access after getting your credentials
