@@ -1,1 +1,17 @@
+What is the Shared Responsibility Model?
+The Shared Responsibility Model is when the customer and AWS share the security responsibility equally between each other the customer is responsible for security in the cloud and AWS is responsible for security of the cloud.
 
+What does AWS secure?
+Physical security, data centers, cooling and power
+
+What does the customer secure?
+MFA, access management, users, policies and roles
+
+What is IAM?
+Identity and Access Management is a secure way to protect an organization's resources and data, IAM gives secure access to company's resources.
+
+Why are Security Groups important?
+Security Groups controls the traffic that comes or goes, this is important because it protects the cloud from malicious data coming in.
+
+Why is MFA important?
+Without Multiple Factor Authentication
